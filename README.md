@@ -1,5 +1,5 @@
 # Moonknight
-This project is inspired by the rotating stars scene by Moon Knight
+This project is inspired by the rotating stars scene by Moon Knight. If you like it give a 🌟
 
 ## Tools/Technologies:
 - Html
